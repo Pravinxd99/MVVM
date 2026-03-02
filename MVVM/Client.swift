@@ -49,6 +49,7 @@ enum NetworkingErrors : Error , LocalizedError {
     case invalidURL
     case invalidResponse
     case invalidData
+    case noNetwork
     
     var errorDescription: String? {
         switch self {
@@ -58,6 +59,8 @@ enum NetworkingErrors : Error , LocalizedError {
             return "Invalid Response"
         case .invalidData:
             return "Invalid Data"
+        case .noNetwork:
+            return "No Network"
         }
     }
 }
