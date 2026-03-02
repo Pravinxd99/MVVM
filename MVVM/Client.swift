@@ -8,7 +8,11 @@
 import Foundation
 
 class Client {
+
     var retry : Int = 0
+
+    var status : String = "pending"
+
     func fetchDataFromApi () async throws -> DataModel {
         let initialurl = URL(string: "https://cdn.jwplayer.com/v2/playlists/GJpN5tES")
         guard let url = initialurl else {
