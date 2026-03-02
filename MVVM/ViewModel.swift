@@ -25,10 +25,13 @@ final class ViewModel : ObservableObject {
         }
     }
     
-    func sortPlayList () {
-        
-    }
+    
     func filterPlayList() {
+        // use copyPlayListItems property
+        //print("filtered Data : \(copyPlayListItems))
+    }
+    
+    func searchPlayList () {
         
     }
     
