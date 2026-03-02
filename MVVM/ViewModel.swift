@@ -25,4 +25,11 @@ final class ViewModel : ObservableObject {
         }
     }
     
+    func sortPlayList () {
+        
+    }
+    func filterPlayList() {
+        
+    }
+    
 }
