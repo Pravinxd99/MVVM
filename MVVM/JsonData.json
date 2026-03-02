@@ -1,0 +1,182 @@
+{
+  "title": "Series playlist",
+  "description": "",
+  "kind": "MANUAL",
+  "feedid": "RpcAOD2g",
+  "links": {
+    "first": "https://cdn.jwplayer.com/v2/playlists/RpcAOD2g?format=json&internal=false&page_offset=1&page_limit=500",
+    "last": "https://cdn.jwplayer.com/v2/playlists/RpcAOD2g?format=json&internal=false&page_offset=1&page_limit=500"
+  },
+  "playlist": [
+    {
+      "title": "Demon Slayer",
+      "mediaid": "Gv6BZZQs",
+      "link": "https://cdn.jwplayer.com/previews/Gv6BZZQs",
+      "image": "https://cdn.jwplayer.com/v2/media/Gv6BZZQs/poster.jpg?width=720",
+      "images": [
+        {
+          "src": "https://cdn.jwplayer.com/v2/media/Gv6BZZQs/poster.jpg?width=320",
+          "width": 320,
+          "type": "image/jpeg"
+        },
+        {
+          "src": "https://cdn.jwplayer.com/v2/media/Gv6BZZQs/poster.jpg?width=480",
+          "width": 480,
+          "type": "image/jpeg"
+        },
+        {
+          "src": "https://cdn.jwplayer.com/v2/media/Gv6BZZQs/poster.jpg?width=640",
+          "width": 640,
+          "type": "image/jpeg"
+        },
+        {
+          "src": "https://cdn.jwplayer.com/v2/media/Gv6BZZQs/poster.jpg?width=720",
+          "width": 720,
+          "type": "image/jpeg"
+        },
+        {
+          "src": "https://cdn.jwplayer.com/v2/media/Gv6BZZQs/poster.jpg?width=1280",
+          "width": 1280,
+          "type": "image/jpeg"
+        },
+        {
+          "src": "https://cdn.jwplayer.com/v2/media/Gv6BZZQs/poster.jpg?width=1920",
+          "width": 1920,
+          "type": "image/jpeg"
+        }
+      ],
+      "feedid": "RpcAOD2g",
+      "duration": 0,
+      "content_source_type": "ott_data",
+      "pubdate": 1752488272,
+      "updated": 1769510158,
+      "description": "",
+      "sources": [
+        {
+          "file": "None",
+          "type": "application/octet-stream"
+        }
+      ],
+      "variations": {},
+      "contentType": "series",
+      "agerating": "16+",
+      "rating": "PG-13"
+    },
+    {
+      "title": "Nature Series",
+      "mediaid": "gIfLqSzn",
+      "link": "https://cdn.jwplayer.com/previews/gIfLqSzn",
+      "image": "https://cdn.jwplayer.com/v2/media/gIfLqSzn/poster.jpg?width=720",
+      "images": [
+        {
+          "src": "https://cdn.jwplayer.com/v2/media/gIfLqSzn/poster.jpg?width=320",
+          "width": 320,
+          "type": "image/jpeg"
+        },
+        {
+          "src": "https://cdn.jwplayer.com/v2/media/gIfLqSzn/poster.jpg?width=480",
+          "width": 480,
+          "type": "image/jpeg"
+        },
+        {
+          "src": "https://cdn.jwplayer.com/v2/media/gIfLqSzn/poster.jpg?width=640",
+          "width": 640,
+          "type": "image/jpeg"
+        },
+        {
+          "src": "https://cdn.jwplayer.com/v2/media/gIfLqSzn/poster.jpg?width=720",
+          "width": 720,
+          "type": "image/jpeg"
+        },
+        {
+          "src": "https://cdn.jwplayer.com/v2/media/gIfLqSzn/poster.jpg?width=1280",
+          "width": 1280,
+          "type": "image/jpeg"
+        },
+        {
+          "src": "https://cdn.jwplayer.com/v2/media/gIfLqSzn/poster.jpg?width=1920",
+          "width": 1920,
+          "type": "image/jpeg"
+        }
+      ],
+      "feedid": "RpcAOD2g",
+      "duration": 0,
+      "content_source_type": "ott_data",
+      "pubdate": 1691530985,
+      "updated": 1770890882,
+      "description": "Nature Series is a captivating and insightful collection dedicated to exploring the beauty, importance, and preservation of the natural world. This series sheds light on the diverse landscapes, ecosystems, and life forms that make our planet vibrant and resilient. Through rich visuals and compelling storytelling, it aims to deepen the audience's connection with nature, emphasizing how each element — from towering forests to microscopic organisms — plays a crucial role in sustaining life on Earth.\n\nAt its core, Nature Series focuses on the dual themes of protection and the benefits (or \"butyes,\" likely intended as \"beauties\" or \"boons\") of nature. It highlights the urgent need for conservation, showcasing real-world efforts to protect endangered species, restore degraded environments, and promote sustainable living. These stories not only raise awareness about environmental issues but also inspire viewers to take action in their own lives, emphasizing that even small steps can lead to meaningful change.\n\nThe series also delves into the countless benefits that nature offers humanity — from clean air and water to medicinal resources and mental well-being. It underscores how ecosystems provide essential services that support our health, economies, and overall quality of life. By drawing attention to these natural gifts, the Nature Series encourages a mindset of gratitude and stewardship, reminding us that protecting nature is not just a moral duty but a matter of survival and prosperity.\n\nEach episode of the Nature Series is designed to be educational, thought-provoking, and visually stunning, making it accessible to a wide audience — from curious students to passionate environmentalists. Whether exploring the depths of a coral reef or following the migration of birds across continents, the series celebrates the wonders of the natural world while calling on us all to preserve its legacy for future generations.",
+      "tags": "Conservation,Environment,Planet Protection,Wildlife",
+      "sources": [
+        {
+          "file": "None",
+          "type": "application/octet-stream"
+        }
+      ],
+      "variations": {},
+      "contentType": "series",
+      "genre": "Adventure",
+      "rating": "PG-13",
+      "audio_language": "English, Spanish",
+      "director": "Ram",
+      "producer": "Gvm",
+      "studio": "wunderbar",
+      "sub_title": "English",
+      "productIdsStaging": "148332"
+    },
+    {
+      "title": "Galaxy Seriesss",
+      "mediaid": "YDEzci61",
+      "link": "https://cdn.jwplayer.com/previews/YDEzci61",
+      "image": "https://cdn.jwplayer.com/v2/media/YDEzci61/poster.jpg?width=720",
+      "images": [
+        {
+          "src": "https://cdn.jwplayer.com/v2/media/YDEzci61/poster.jpg?width=320",
+          "width": 320,
+          "type": "image/jpeg"
+        },
+        {
+          "src": "https://cdn.jwplayer.com/v2/media/YDEzci61/poster.jpg?width=480",
+          "width": 480,
+          "type": "image/jpeg"
+        },
+        {
+          "src": "https://cdn.jwplayer.com/v2/media/YDEzci61/poster.jpg?width=640",
+          "width": 640,
+          "type": "image/jpeg"
+        },
+        {
+          "src": "https://cdn.jwplayer.com/v2/media/YDEzci61/poster.jpg?width=720",
+          "width": 720,
+          "type": "image/jpeg"
+        },
+        {
+          "src": "https://cdn.jwplayer.com/v2/media/YDEzci61/poster.jpg?width=1280",
+          "width": 1280,
+          "type": "image/jpeg"
+        },
+        {
+          "src": "https://cdn.jwplayer.com/v2/media/YDEzci61/poster.jpg?width=1920",
+          "width": 1920,
+          "type": "image/jpeg"
+        }
+      ],
+      "feedid": "RpcAOD2g",
+      "duration": 0,
+      "content_source_type": "ott_data",
+      "pubdate": 1691530597,
+      "updated": 1752472851,
+      "description": "A galaxy is a system of stars, stellar remnants, interstellar gas, dust, and dark matter bound together by gravity.",
+      "sources": [
+        {
+          "file": "None",
+          "type": "application/octet-stream"
+        }
+      ],
+      "variations": {},
+      "contentType": "series",
+      "trailerId": "ZeC1iHC5",
+      "productIds": "148398"
+    }
+  ],
+  "feed_instance_id": "6433d8eb-b4aa-4725-9917-1b53452498ce"
+}
