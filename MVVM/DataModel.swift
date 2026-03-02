@@ -16,7 +16,7 @@ struct DataModel :  Codable {
     static let sampleDataModel : DataModel = DataModel(playlist: PlayList.samplePlaylistArray)
 }
 
-struct PlayList : Identifiable , Codable {
+struct PlayList : Identifiable , Codable , Hashable {
     var id : String {
         return mediaid
     }
@@ -25,5 +25,6 @@ struct PlayList : Identifiable , Codable {
     
     static let samplePlaylist = PlayList(title: "Movie1", mediaid: "1234")
     static let samplePlaylistArray : [PlayList] = [ PlayList(title: "Movie1", mediaid: "1234"),
-                                                    PlayList(title: "Movie2", mediaid: "12345")]
+                                                    PlayList(title: "Movie2", mediaid: "12345"),
+                                                    PlayList(title: "Movie3", mediaid: "123456")]
 }
