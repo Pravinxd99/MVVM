@@ -26,10 +26,10 @@ final class ViewModel : ObservableObject {
     }
     
     func sortPlayList () {
-        
+       // sort using title
     }
     func filterPlayList() {
-        
+        // have another duplicate property and use duplicate property to show filtered data 
     }
     
 }
